@@ -8,6 +8,7 @@ shopping_items = {
 }
 #shopping cart
 shopping_cart = {
+    "Mango" : 4.55
 
 }
 #Avalibilty Function
